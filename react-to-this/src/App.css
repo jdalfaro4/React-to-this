@@ -40,3 +40,9 @@
 .background {
   background-color: black;
 }
+
+/* .rainbow:hover {
+  background: -webkit-linear-gradient(45deg, #EE82EE, #0000FF, #00FF00, #FFFF00, #FF0000, #EE82EE);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+} */

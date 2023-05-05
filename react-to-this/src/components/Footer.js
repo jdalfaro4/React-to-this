@@ -1,33 +1,23 @@
-import React, { useState } from 'react';
-
-const styles = {
-    H1: {
-        margin: 20,
-        color: 'white'
-    },
-    heading: {
-        background: '#3f51b5',
-        minHeight: 50,
-        lineHeight: 3.5,
-        fontSize: '1.2rem',
-        color: 'white',
-        padding: '0 20px',
-    },
-    content: {
-        padding: 20,
-        color: 'white'
-    },
-};
+import React from 'react';
 
 function Footer() {
-
-
     return (
-        <footer>
-        <p style={styles.content}>Maximum Effort</p>
-    </footer>
-    )
+        <footer className="fixed-bottom" style={{ height: "8vh", backgroundColor: "black" }}>
+            <div className="d-flex justify-content-center align-items-center h-100">
+                <ul className="list-unstyled">
+                    <li className="d-inline-block mx-4">
+                        <a href="https://www.linkedin.com/" className="rainbow">LinkedIn</a>
+                    </li>
+                    <li className="d-inline-block mx-4">
+                        <a href="https://github.com/" className="rainbow">GitHub</a>
+                    </li>
+                    <li className="d-inline-block mx-4">
+                        <a href="https://twitter.com/" className="rainbow">Twitter</a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+    );
 }
-
 
 export default Footer;

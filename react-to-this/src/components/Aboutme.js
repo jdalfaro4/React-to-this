@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import "../../src/App.css"
 function Aboutme() {
     return (
         <div className="container-fluid bg-info" style={{ minHeight: '100vh' }}>

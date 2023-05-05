@@ -14,13 +14,13 @@
 }
 
 .linkedin {
-  color: #201E20;
+  color: #201E20!important;
 }
 .github {
-  color: #201E20;
+  color: #201E20!important;
 }
 .twitter {
-  color: #201E20;
+  color: #201E20!important;
 }
 
 
@@ -53,9 +53,7 @@
     transform: rotate(360deg);
   }
 }
-.welcome {
-  margin-top: 20px!important;
-}
+
 .background {
   background-color: black;
 }
@@ -64,18 +62,4 @@
   background: -webkit-linear-gradient(45deg, white, black );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (-webkit-min-device-pixel-ratio: 1) {
-
-}
-
-@media screen 
-  and (min-device-width: 1200px) 
-  and (max-device-width: 1600px) 
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (min-resolution: 192dpi) { 
 }

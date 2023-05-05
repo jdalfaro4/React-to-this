@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
 
-function AboutMe() {
+function Aboutme() {
     return (
         <div className="container-fluid bg-info" style={{ minHeight: '100vh' }}>
             <div className="row">
@@ -17,6 +17,6 @@ function AboutMe() {
     );
 }
 
-export default AboutMe;
+export default Aboutme;
 
 

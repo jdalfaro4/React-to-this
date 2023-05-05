@@ -13,9 +13,21 @@
   }
 }
 
+.linkedin {
+  color: #201E20;
+}
+.github {
+  color: #201E20;
+}
+.twitter {
+  color: #201E20;
+}
+
+
 .bg-info {
-  background-color: #EEA47F!important;
+  background-color: #E0A96D!important;
   text-indent: 55%;
+  height: 100vh!important;
 }
 
 .App-header {
@@ -42,7 +54,7 @@
   }
 }
 .welcome {
-  text-align: center;
+  margin-top: 20px!important;
 }
 .background {
   background-color: black;

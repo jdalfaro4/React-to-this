@@ -20,7 +20,7 @@ const styles = {
     },
 };
 
-function Project() {
+function Portfolio() {
 
     return (
         <div>
@@ -36,4 +36,4 @@ function Project() {
 }
 
 
-export default Project;
+export default Portfolio;

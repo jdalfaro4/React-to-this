@@ -2,7 +2,7 @@ import React from 'react';
 
 function Header() {
     return (
-        <header className="row d-flex align-items-center" style={{ height: "15vh", backgroundColor: "black" }}>
+        <header className="row d-flex align-items-center" style={{ height: "10vh", backgroundColor: "#00539C" }}>
             <div className="col-md-2 mx-5">
                 <h2 style={{color: 'white'}}>John Alfaro</h2>
             </div>

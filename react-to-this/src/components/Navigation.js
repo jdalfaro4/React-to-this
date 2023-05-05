@@ -11,9 +11,8 @@ function Navigation() {
             <div className="container-fluid bg-info py-5">
                 <div className="row">
                     <section class="welcome" className="col-md-6 offset-md-1">
-                        <h2>Welcome!</h2>
-                        <p>Welcome to my page!
-                        </p>
+                        <h2>Welcome to my page!</h2>
+                        
                     </section>
                 </div>
             </div>

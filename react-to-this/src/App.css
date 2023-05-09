@@ -27,8 +27,7 @@
 
 .bg-info {
   background-color: #E0A96D!important;
-  text-indent: 55%;
-  height: 100vh!important;
+
 }
 
 .App-header {
@@ -59,13 +58,58 @@
   background-color: black;
 }
 
-.rainbow:hover {
-  background: -webkit-linear-gradient(45deg, white, black );
+.colorfade:hover {
+  background: -webkit-linear-gradient(45deg, #DDC3A5, black );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
+.AboutMeHeader {
+  text-indent: 40%;
+  font-size: 5rem;
+  font-family: Papyrus;
+}
+
+.aboutmeparagraph {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+
+.PortfolioHeader {
+  font-family: Papryus;
+  text-align: center;
+  padding-top: 1rem;
+}
+
+.resumeimage {
+  margin-left: 45%;
+}
+
+.ResumeHeader {
+  margin-left: 45%;
+  padding-top: 1rem;
+  font-family: Papyrus;
+  font-size: 3rem;
+}
+
+.ContactMeHeader {
+  margin-top: 1em;
+}
+
+.headername {
+  font-family: Papyrus;
+  padding: 8%;
+}
+
+
 .piggies-pies {
   height: 250px;
   width: 450px;
+}
+
+.LWMT {
+  height: 250px;
+  width: 450px;
+  box-shadow:#E0A96D ;
 }

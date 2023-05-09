@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
+import "../../src/App.css"
 
 function Contact() {
     return (
         <div className="container-fluid bg-info" style={{ minHeight: '100vh' }}>
             <div className="row">
                 <div className="col-md-6 offset-md-1">
-                    <h2 >Contact Me:</h2>
+                    <h2 class="ContactMeHeader">Contact Me:</h2>
                     <form>
                         <div className="form-group">
                             <label htmlFor="name" >Name:</label>

@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import AboutMePic from '../images/About-me-pic.png'
 import "../../src/App.css"
 
 
@@ -14,6 +15,9 @@ function Aboutme() {
                         The more I learn, the more I love life, so you'll almost always find me with a book in my hand. I'm a TRUE texan born and raised! 
                         So you'll also find me BBQing every weekend. I welcome any and all criticism and I'm not afraid of any conversation. 
                         My favorite quote is "Take care of yourself as if you were someone you were responsible for" - Dr. Jordan B. Peterson
+                    </p>
+                    <p>
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img class="AboutMePic" src={AboutMePic}></img></a>
                     </p>
                 </div>
             </div>

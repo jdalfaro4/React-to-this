@@ -120,3 +120,13 @@
   height: 300px;
   width: 450px;
 }
+
+.AboutMePic {
+  height: 230px;
+  width: 230px;
+  margin-top: 3%;
+  margin-left: 43%;
+  border-radius: 50%;
+  border: 3.5px solid;
+  border-color: #282c34;
+}

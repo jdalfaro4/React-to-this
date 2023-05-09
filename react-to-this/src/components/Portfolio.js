@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import piggypies from '../images/Piggy-pies.png'
+import "../../src/App.css"
 
 function Portfolio() {
     return (
@@ -16,8 +18,10 @@ function Portfolio() {
                 <div className="col-md-4 mb-5">
                     <div className="card custom-card">
                         <div className="card-body">
-                            <h5 className="card-title">Box 2</h5>
-                            <p className="card-text">Description of box 2.</p>
+                            <h5 className="card-title"></h5>
+                            <p>
+                            <a href="https://jdalfaro4.github.io/Cutie-Pies/"><img class="piggies-pies" src={piggypies}></img></a>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -26,30 +30,6 @@ function Portfolio() {
                         <div className="card-body">
                             <h5 className="card-title">Box 3</h5>
                             <p className="card-text">Description of box 3.</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-5">
-                    <div className="card custom-card">
-                        <div className="card-body">
-                            <h5 className="card-title">Box 4</h5>
-                            <p className="card-text">Description of box 4.</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-5">
-                    <div className="card custom-card">
-                        <div className="card-body">
-                            <h5 className="card-title">Box 5</h5>
-                            <p className="card-text">Description of box 5.</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-5">
-                    <div className="card custom-card">
-                        <div className="card-body">
-                            <h5 className="card-title">Box 6</h5>
-                            <p className="card-text">Description of box 6.</p>
                         </div>
                     </div>
                 </div>

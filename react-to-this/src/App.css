@@ -90,11 +90,10 @@
   margin-left: 45%;
   padding-top: 1rem;
   font-family: Papyrus;
-  font-size: 3rem;
+  font-size: 5rem;
 }
 
 .ContactMeHeader {
-  margin-top: 1em;
   margin-left: 65%;
   padding-top: 1rem;
   font-size: 3rem;
@@ -107,12 +106,17 @@
 
 
 .piggies-pies {
-  height: 250px;
+  height: 300px;
   width: 450px;
 }
 
 .LWMT {
-  height: 250px;
+  height: 300px;
   width: 450px;
   box-shadow:#E0A96D ;
+}
+
+.deadpool {
+  height: 300px;
+  width: 450px;
 }

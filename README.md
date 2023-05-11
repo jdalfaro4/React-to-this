@@ -8,7 +8,7 @@
 
 ## Link  
 
-[Click here](https://text-edit-this.herokuapp.com/) to view the deployed app in Heroku.   
+[Click here](https://text-edit-this.herokuapp.com/) to view the deployed app through Github.   
 
 ## Description  
 

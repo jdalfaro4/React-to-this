@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import AboutMePic from '../images/About-me-pic.png'
-import "../../src/App.css"
+import "../App.css"
 
 
 function Aboutme() {

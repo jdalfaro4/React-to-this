@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import piggypies from '../images/Piggy-pies.png'
 import LWMT from '../images/LWMT.png'
 import Deadpool from '../images/Deadpool.jpeg'
-import "../../src/App.css"
+import "../App.css"
 
 function Portfolio() {
     return (

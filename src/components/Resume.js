@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Resumeimage from '../images/Resume.png'
-import "../../src/App.css"
+import "../App.css"
 
 
 function Resume() {

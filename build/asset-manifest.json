@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-to-this/static/css/main.c454706a.css",
+    "main.js": "/React-to-this/static/js/main.a60c7ad3.js",
+    "static/js/787.489ea12a.chunk.js": "/React-to-this/static/js/787.489ea12a.chunk.js",
+    "static/media/About-me-pic.png": "/React-to-this/static/media/About-me-pic.96260a02a8f54a289616.png",
+    "static/media/Piggy-pies.png": "/React-to-this/static/media/Piggy-pies.0cb525f77bd850faa72d.png",
+    "static/media/Resume.png": "/React-to-this/static/media/Resume.7585747e9bb84ace17f7.png",
+    "static/media/LWMT.png": "/React-to-this/static/media/LWMT.05c3521ebd83ae91a3df.png",
+    "static/media/Deadpool.jpeg": "/React-to-this/static/media/Deadpool.d1f1ab1a059b006b7d97.jpeg",
+    "index.html": "/React-to-this/index.html",
+    "main.c454706a.css.map": "/React-to-this/static/css/main.c454706a.css.map",
+    "main.a60c7ad3.js.map": "/React-to-this/static/js/main.a60c7ad3.js.map",
+    "787.489ea12a.chunk.js.map": "/React-to-this/static/js/787.489ea12a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c454706a.css",
+    "static/js/main.a60c7ad3.js"
+  ]
+}

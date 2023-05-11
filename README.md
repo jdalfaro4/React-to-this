@@ -8,7 +8,7 @@
 
 ## Link  
 
-[Click here](https://text-edit-this.herokuapp.com/) to view the deployed app through Github.   
+[Click here](https://jdalfaro4.github.io/React-to-this/) to view the deployed app through Github.   
 
 ## Description  
 

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import piggypies from '../images/Piggy-pies.png'
 import LWMT from '../images/LWMT.png'
-import Deadpool from '../images/Deadpool.jpeg'
+import sleepminded from '../images/Sleepmindedimage.png'
 import "../App.css"
 
 function Portfolio() {
@@ -14,7 +14,7 @@ function Portfolio() {
                         <div className="card-body">
                             <h5 className="card-title"></h5>
                             <p>
-                            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img class="deadpool" src={Deadpool}></img></a>
+                            <a href="https://sleepminded.herokuapp.com/"><img class="deadpool" src={sleepminded}></img></a>
                             </p>
                         </div>
                     </div>
